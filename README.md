@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KunalChoudhary07
 - 👀 I’m interested in creating new things that helps me to make life easy
-- 🌱 I’m currently learning c++ and Data Structures and Algorithm
+- 🌱 I’m currently learning c++ and Data Structures and Algorithm and also learning wWeb Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kc7kunal@gmail.com
 - 😄 Pronouns: ...
